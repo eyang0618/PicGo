@@ -1,2 +1,2 @@
 # PicGo
-makedown_picgo
+markdown_picgo
